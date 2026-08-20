@@ -1,1 +1,2 @@
 Welcome to git repo
+Today is 20 august
